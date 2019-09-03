@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ChoccoMaterial
+  m_Shader: {fileID: 4800000, guid: a7d1118f20a7efc4c96096a5ff552ff3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 543320a517052e94683f90c7b6415b23, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ForceRotation: 0
+    - _key: 100
+    - _slider: 1
+    m_Colors:
+    - _ofset: {r: 0, g: 0.05, b: 0, a: 0}
+    - _rotation: {r: 0, g: 0, b: 0, a: 0}
+    - _rotationaxis1: {r: 0, g: 0, b: 0, a: 0}
+    - _rotationaxis2: {r: 0, g: 180, b: 0, a: 0}
